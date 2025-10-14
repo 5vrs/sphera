@@ -1,0 +1,25 @@
+# ignore everything
+*
+
+# allow tracked dotfiles
+!.gitignore
+
+# include selected configs
+
+!contracts/
+!contracts/**
+
+!nfts/
+!nfts/**
+
+!scripts/
+!scripts/**
+
+!server/
+!server/**
+
+!hardhat.config.js
+!package.json
+!package-lock.json
+!README.md
+
