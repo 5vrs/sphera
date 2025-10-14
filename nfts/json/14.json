@@ -1,0 +1,28 @@
+{
+    "name": "Sphera Boot #14",
+    "description": "Own football boots to compete in epic matches, and dominate the pitch in the ultimate digital showdown!",
+    "image": "ipfs://bafybeihtz2zlrr5b2r4ljkfpz52asmm45iqtdu7hvs2yqervkh3yma3up4/14.png",
+    "dna": "f874d920a31f0d57a119f74f6f1f219abb4c711d",
+    "edition": 14,
+    "date": 1735219079184,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Boot",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Stud",
+            "value": "Epic"
+        }
+    ],
+    "compiler": "HashLips Art Engine",
+    "addition": 4
+}
