@@ -1,14 +1,14 @@
 # Sphera
 ## Table of Contents
--[About](#about)
-    -[NFTs](#nfts)
-        -[Layers](#layers)
-        -[Rarities](#rarities)
-        -[Attributes](#attributes)
--[Installation](#installation)
--[Usage](#usage)
--[Features](#features)
--[License](#license)
+- [About](#about)
+    - [NFTs](#nfts)
+        - [Layers](#layers)
+        - [Rarities](#rarities)
+        - [Attributes](#attributes)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
 
 ## About
 Sphera is an ERC-1155 NFT collection where each NFT is linked to the performance of a real football player. Mint your Sphera boots and watch its stats grow as the linked player plays more and more matches!
