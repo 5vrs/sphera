@@ -1,6 +1,5 @@
 # Sphera
 ## Table of Contents
-
 -[About](#about)
     -[NFTs](#nfts)
         -[Layers](#layers)
