@@ -77,4 +77,4 @@ TO-DO
 TO-DO
 
 ## License
-See [LICENSE](LICENSE)
+See [LICENSE](LICENSE.md)
