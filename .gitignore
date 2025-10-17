@@ -19,6 +19,7 @@
 !server/**
 
 !hardhat.config.js
+!LICENSE.md
 !package.json
 !package-lock.json
 !README.md
